@@ -1,4 +1,4 @@
-#Log in
+# Log in
 
 This is a Log in app made with Java. I used Javax Swing to give it a frame and buttons. 
 
