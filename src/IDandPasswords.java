@@ -7,9 +7,9 @@ public class IDandPasswords {
 	
 	// These are the examples of the user names and passwords
 	IDandPasswords(){
-		loginInfo.put("Ichigo", "KillHollows");
-		loginInfo.put("Naruto", "Ramen");
-		loginInfo.put("Shikamaru", "whatadrag");
+		loginInfo.put("youreHired22", "Coder123");
+		loginInfo.put("Jeff97", "SurfsUp");
+		loginInfo.put("Chun-li1991", "passLog");
 	}
 	
 	// This will get the login information
